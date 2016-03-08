@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 1fd0501020a520645baa56425c2b5a75
+timeCreated: 1446478698
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000
+  assetHash:
+    serializedVersion: 2
+    Hash: b739bdf4992652fbdea57729401e237c
+  longitude: -105.283
+  latitude: 40.017000000000003
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -1.48907793, y: 2.6148088, z: 4.05953598}
+      lookAt: {x: 1.3217119, y: .801849365, z: .433144301}
+      up: {x: .225130513, y: .930027723, z: -.290456206}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Aurora_MainCarStation
+    100002: Aurora_MainCarStation#1
+    100004: Component#1
+    100006: Component#1 1
+    100008: Component#14
+    100010: Component#3
+    100012: Component#64
+    100014: Door3
+    100016: Thyssenkrupp Elevator Cab
+    100018: //RootNode
+    400000: Aurora_MainCarStation
+    400002: Aurora_MainCarStation#1
+    400004: Component#1
+    400006: Component#1 1
+    400008: Component#14
+    400010: Component#3
+    400012: Component#64
+    400014: Door3
+    400016: Thyssenkrupp Elevator Cab
+    400018: //RootNode
+    2300000: Component#1
+    2300002: Component#1 1
+    2300004: Component#14
+    2300006: Component#3
+    2300008: Component#64
+    2300010: Thyssenkrupp Elevator Cab
+    3300000: Component#1
+    3300002: Component#1 1
+    3300004: Component#14
+    3300006: Component#3
+    3300008: Component#64
+    3300010: Thyssenkrupp Elevator Cab
+    4300000: Mesh Thyssenkrupp Elevator Cab
+    4300002: Mesh Component#64
+    4300004: Mesh Component#3
+    4300006: Mesh Component#1
+    4300008: Mesh Component#14
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
