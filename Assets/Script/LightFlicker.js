@@ -1,4 +1,4 @@
-﻿var flickerSpeed : float = 0.07;
+﻿public var flickerSpeed : float = 0.07;
 private var randomizer : int = 0;
 while (true) {
     if (randomizer == 0) {
